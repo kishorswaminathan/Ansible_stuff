@@ -13,13 +13,13 @@
  
     *Establishing SSH key pair in linux system to have SSH connectivity with the localhost8
    
-   # ssh-keygen -t rsa
-   # cat .ssh/id_rsa.pub >> .ssh/authorized_keys
-   # ssh localhost -p 42006
+   $ ssh-keygen -t rsa
+   $ cat .ssh/id_rsa.pub >> .ssh/authorized_keys
+   $ ssh localhost -p 42006
      
     * Adding LocalHost value to ansible host file *
    
-   # sudo vi /etc/ansible/hosts
+   $ sudo vi /etc/ansible/hosts
    
      [webservers]
      localhost:42006  //add the below two lines of the code at the end of the file//

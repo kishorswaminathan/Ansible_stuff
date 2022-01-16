@@ -5,8 +5,6 @@
 * Nagios
 * Terraform
 * Selenium
-* Maven
-* Gradle
 * TestNG
 * Docker
 * Kubernetes

@@ -4,4 +4,4 @@
 
 * DEMO 3 - Ansible Modules
 
-* DEMO 4 - CRUD Operations Using Ansible( Role, Tasks, Template, Varibale, Directory, Role Playbook(Create,Deploy)
+* DEMO 4 - CRUD Operations Using Ansible( Role, Tasks, Template, Variable, Directory, Role Playbook(Create,Deploy)
